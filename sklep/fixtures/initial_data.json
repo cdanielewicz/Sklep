@@ -1,0 +1,10 @@
+[
+  {
+    "model" : "sklep.Product",
+    "pk" : 1,
+    "fields" : {
+      "nazwa" : "bułka",
+      "cena" : 15.50
+    }
+  }
+]
